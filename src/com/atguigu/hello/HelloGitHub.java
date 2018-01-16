@@ -8,5 +8,4 @@ public class HelloGitHub {
 		System.out.println("github change");
 		System.out.println("github change 02");
 	}
-	
 }	
