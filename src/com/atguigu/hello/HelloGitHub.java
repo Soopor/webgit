@@ -7,5 +7,6 @@ public class HelloGitHub {
 		System.out.println("22222");
 		System.out.println("github change");
 		System.out.println("github change 02");
+		System.out.println("hello myself change");
 	}
 }	
